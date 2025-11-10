@@ -66,6 +66,7 @@ a {
 }
 
 a:hover{
-	background-color:aqua;
+	color: white;
+	background-color:darkorange;
 	text-decoration: underline;
 }
