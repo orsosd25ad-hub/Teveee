@@ -1,7 +1,8 @@
 body{
-	s
 	font-family:cursive;
 	background-image: url(sivatag.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 p{
@@ -37,4 +38,8 @@ input{
 
 p{
 	font-family:;
+}
+
+h1{
+	border: 3px solid orange;
 }
